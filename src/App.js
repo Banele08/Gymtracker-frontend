@@ -4,6 +4,8 @@ import Home from '../src/pages/Home';
 import Workouts from '../src/pages/Workouts';
 import Exercises from '../src/pages/Exercises';
 import Progress from '../src/pages/Progress';
+import './App.css';
+import './index.css';
 
 function App() {
   return (
