@@ -31,7 +31,7 @@ export default function Home() {
           alt="Workout hero"
           className="w-full h-72 object-cover rounded-2xl shadow-md mb-6"
         />
-        <h1 className="text-5xl font-extrabold text-gray-800 mb-4">Welcome to Gym Workout Tracker 💪</h1>
+        <h1 className="text-5xl font-extrabold text-gray-800 mb-4">Welcome to Gym Workout Tracker</h1>
         <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-6">
           Track your gym progress with ease! Log your workouts, view a list of exercises, and get simple progress insights — all without creating an account. Click below to begin your fitness journey!
         </p>
